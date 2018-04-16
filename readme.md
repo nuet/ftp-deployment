@@ -16,7 +16,7 @@ Once the process is automated, it costs you a fraction of time and minimizes the
 (didn't I forget to upload some files?). There are lots of sophisticated deploying techniques available today,
 but many people are still using FTP. This tool is designed for them.
 
-FTP Deployment is a script written in PHP (requires PHP 5.4 or newer) and will automate
+FTP Deployment is a script written in PHP (v3.0 requires PHP 7.1 or newer, v2.x requires PHP 5.4 or newer) and will automate
 the entire process. Just say which local folder to upload and where. This
 information is stored in a `deployment.ini` text file, which you can associate
 with `deployment` script, so deployment will become a one click thing.
